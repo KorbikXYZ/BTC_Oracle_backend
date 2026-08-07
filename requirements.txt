@@ -1,0 +1,17 @@
+python-dotenv>=1.0.1
+openai         
+google-genai
+asyncio
+aiohttp
+numpy
+pyarrow
+pandas
+matplotlib
+yfinance
+requests
+nasdaq_data_link
+scipy
+psycopg2-binary
+fastapi
+uvicorn
+dune-client
